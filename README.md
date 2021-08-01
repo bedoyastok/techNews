@@ -10,4 +10,8 @@
 7. agregar una section card
 8. se repite las noticias y section card con  algunas modificaciones
 9. section redes sociales
+10. footer con los links
+11. footer
+12. agregar clases para que sea responsive @media
+
 

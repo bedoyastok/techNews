@@ -142,5 +142,22 @@ hr{
 
 .cards-banner-one .content{
     width: 40%;
-    /* padding: 90px 0 0 30px; */
+    padding: 90px 0 0 30px;
+}
+
+.cards-banner-one p
+.cards-banner-one h2{
+    margin: 10px 0 20px 0;
+}
+
+/*CARDS BANNER TWO*/
+.cards-banner-two{
+    width: 100%;
+    height: 350px;
+    background: url(img/foto.jpg) no-repeat center center/cover;
+}
+
+.cards-banner-two .content{
+    width: 50%;
+    padding: 100px 0 0 30px;
 }

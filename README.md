@@ -6,5 +6,8 @@
 3. poner un fondo a toda la pagina
 4. crear el emnu y dar estilos
 5. hacer el banner y sus estilos
-6. seccion de noticias con las gotos y los estilos
+6. seccion de noticias con las fotos y los estilos
+7. agregar una section card
+8. se repite las noticias y section card con  algunas modificaciones
+9. section redes sociales
 

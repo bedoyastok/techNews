@@ -13,5 +13,10 @@
 10. footer con los links
 11. footer
 12. agregar clases para que sea responsive @media
+13. agregar boton despues del media query para el menu hamburguesa
+14. darle funcinalidad al boton con javascript
+15. modificar clase para agregar funcinalidad con javascript
+16. trabajar con transform para mostrar y ocultar el menu
+
 
 
